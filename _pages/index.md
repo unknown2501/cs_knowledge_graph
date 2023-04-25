@@ -1,5 +1,7 @@
 ---
-
+layout: page
+title: 主页
+permalink: /
 ---
 
-[[工程学]]
+[[_pages/工程学]]
