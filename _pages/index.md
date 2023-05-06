@@ -2,6 +2,7 @@
 layout: page
 title: 主页
 permalink: /
+wip: 1
 ---
 
-[[工程学]]
+[[如何学习CS]]
