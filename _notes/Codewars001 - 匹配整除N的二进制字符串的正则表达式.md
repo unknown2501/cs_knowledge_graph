@@ -1,5 +1,5 @@
 ---
-title: Codewars001
+title: Codewars001 - 匹配整除N的二进制字符串的正则表达式
 permalink: /codewars001
 ---
 
