@@ -1,5 +1,6 @@
 ---
 title: Codewars001
+permalink: /codewars001
 ---
 
 [原题链接](https://www.codewars.com/kata/5993c1d917bc97d05d000068)
